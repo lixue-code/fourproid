@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.condition.ConditionalOnWebApplicat
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-
+//表示这是一个配置类
 @Configuration
 //将目标类配置成bean，并且注入全局配置文件的属性值
 @EnableConfigurationProperties(IpPortProp.class)
