@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "user",
+      "type": "com.lixue.springboot02.entity.UserByEnableConfig",
+      "sourceType": "com.lixue.springboot02.entity.UserByEnableConfig"
+    },
+    {
+      "name": "userout",
+      "type": "com.lixue.springboot02.entity.UserByOutProperties",
+      "sourceType": "com.lixue.springboot02.entity.UserByOutProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "user.password",
+      "type": "java.lang.String",
+      "sourceType": "com.lixue.springboot02.entity.UserByEnableConfig"
+    },
+    {
+      "name": "user.username",
+      "type": "java.lang.String",
+      "sourceType": "com.lixue.springboot02.entity.UserByEnableConfig"
+    },
+    {
+      "name": "userout.password",
+      "type": "java.lang.String",
+      "sourceType": "com.lixue.springboot02.entity.UserByOutProperties"
+    },
+    {
+      "name": "userout.username",
+      "type": "java.lang.String",
+      "sourceType": "com.lixue.springboot02.entity.UserByOutProperties"
+    }
+  ],
+  "hints": []
+}

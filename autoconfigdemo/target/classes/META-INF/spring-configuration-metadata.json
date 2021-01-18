@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "prop",
+      "type": "com.lixue.autoconfigdemo.bean.HelloProp",
+      "sourceType": "com.lixue.autoconfigdemo.bean.HelloProp"
+    }
+  ],
+  "properties": [
+    {
+      "name": "prop.prop",
+      "type": "java.lang.String",
+      "sourceType": "com.lixue.autoconfigdemo.bean.HelloProp"
+    }
+  ],
+  "hints": []
+}
